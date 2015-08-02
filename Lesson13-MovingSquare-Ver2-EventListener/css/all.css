@@ -1,0 +1,31 @@
+.square {
+	width: 50px;
+	height: 50px;
+	background: #3399FF;
+	margin-top: 50px;
+	position: absolute;
+    top: 100px;
+    left: 5px;
+}
+.stopsquare {
+	background: #FF3300;
+}
+.stop {
+	background: #FF3300;
+	width: 50px;
+	display: inline-block;
+	margin-left: 50px;
+	text-align: center;
+	font-family: Arial;
+	color: white;
+	padding: 5px 10px;
+}
+.play {
+	background: #3399FF;
+	width: 50px;
+	display: inline-block;
+	text-align: center;
+	font-family: Arial;
+	color: white;
+	padding: 5px 10px;
+}
