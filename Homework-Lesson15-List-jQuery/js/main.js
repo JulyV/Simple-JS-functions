@@ -11,6 +11,6 @@ function addLi (n) {
 
 addLi(5);
 
-$("a").on("click",  function() {
+$("ul a").on("click",  function() {
   $(this).css({"background-color":"red", "color":"#fff"});
 });
